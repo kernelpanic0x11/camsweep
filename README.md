@@ -3,6 +3,8 @@
 Find discoverable devices on your attached IPv4 network and understand camera clues.
 By [@kernel.panic.0x11](https://www.instagram.com/kernel.panic.0x11/).
 
+**[Open the CAMERA website](https://bio.beehivewebstudio.com/camera/)** for the guide reader and setup overview.
+
 **Here from the CAMERA reel? [Download the guide + Python kit](https://github.com/kernelpanic0x11/camsweep/raw/refs/heads/main/camera-guide.zip).**
 Extract the ZIP and open `guide.html` in your browser. It works offline and includes
 setup, result explanations, the real Blink test, limitations, and troubleshooting.
